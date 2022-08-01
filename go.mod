@@ -23,7 +23,7 @@ require (
 	github.com/envoyproxy/go-control-plane v0.9.9-0.20210512163311-63b5d3c536b0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/runtime v0.19.29
-	github.com/go-openapi/strfmt v0.20.1
+	github.com/go-openapi/strfmt v0.21.3
 	github.com/gofrs/uuid v3.4.0+incompatible
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-github v17.0.0+incompatible // indirect
@@ -58,7 +58,6 @@ require (
 	github.com/tcnksm/go-latest v0.0.0-20170313132115-e3007ae9052e
 	github.com/vektah/gqlparser/v2 v2.2.0
 	github.com/vmihailenco/taskq/v3 v3.0.0-beta.9.0.20200519124923-d9823546b85a
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
 	gonum.org/v1/gonum v0.9.3
