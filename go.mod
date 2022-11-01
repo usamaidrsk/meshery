@@ -16,14 +16,14 @@ replace (
 require (
 	fortio.org/fortio v1.17.0
 	github.com/99designs/gqlgen v0.13.0
-	github.com/asaskevich/govalidator v0.0.0-20200907205600-7a23bdc65eef
+	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/briandowns/spinner v1.16.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/docker/docker v1.13.1
 	github.com/envoyproxy/go-control-plane v0.9.9-0.20210512163311-63b5d3c536b0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-openapi/runtime v0.19.29
-	github.com/go-openapi/strfmt v0.20.1
+	github.com/go-openapi/runtime v0.24.2
+	github.com/go-openapi/strfmt v0.21.2
 	github.com/gofrs/uuid v3.4.0+incompatible
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-github v17.0.0+incompatible // indirect
@@ -60,7 +60,6 @@ require (
 	github.com/vmihailenco/taskq/v3 v3.0.0-beta.9.0.20200519124923-d9823546b85a
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
 	gonum.org/v1/gonum v0.9.3
 	google.golang.org/grpc v1.39.0
 	google.golang.org/protobuf v1.27.1
