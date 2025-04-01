@@ -2,6 +2,8 @@ module github.com/layer5io/meshery
 
 go 1.23.4
 
+toolchain go1.24.1
+
 // replace github.com/layer5io/meshkit v0.8.15 => ../meshkit
 
 replace github.com/vektah/gqlparser/v2 => github.com/vektah/gqlparser/v2 v2.5.11
@@ -37,7 +39,7 @@ require (
 	github.com/layer5io/gowrk2 v0.6.1
 	github.com/layer5io/meshery-operator v0.8.3
 	github.com/layer5io/meshkit v0.8.17
-	github.com/layer5io/meshsync v0.8.5
+	github.com/layer5io/meshsync v0.8.6
 	github.com/layer5io/nighthawk-go v1.0.3
 	github.com/layer5io/service-mesh-performance v0.6.1
 	github.com/lib/pq v1.10.9
